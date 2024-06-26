@@ -109,7 +109,6 @@ body{
     }
 
     .card{
-        width: 90%;
-        margin-left: 15px;
+        width: 100%;
     }
 }
